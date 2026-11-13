@@ -1,2 +1,1 @@
-# Woodman-
-輕鬆輸入法
+# Woodman 的輕鬆輸入法
